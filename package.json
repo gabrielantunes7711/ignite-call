@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@coderise-ui/react": "^2.0.2",
+    "@coderise-ui/tokens": "^2.1.1",
     "@hookform/resolvers": "^3.3.4",
     "@prisma/client": "^5.10.2",
     "@tanstack/react-query": "^5.28.4",
